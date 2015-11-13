@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: CompGenLab@IU
+email: daniel.standage@gmail.com
+description: >
+    Computational Genomics Lab, Indiana University, 2016. All contents of this
+    site are released under a Creative Commons Attribution 4.0 International
+    License (CC BY), and students retain copyright of all their work.
+baseurl: "/cgs-s16" # the subpath of your site, e.g. /blog
+url: "http://brendelgroup.github.io"
+# twitter_username: jekyllrb
+# github_username:  BrendelGroup
+
+# Build settings
+markdown: redcarpet
